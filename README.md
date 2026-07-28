@@ -1,4 +1,7 @@
 
+## Typing Animation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&width=600&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg)
+
 # Hey there, I'm Rahaf 👋
 
 ## Cloud Native Full Stack Developer
@@ -34,10 +37,7 @@ Java • Spring Boot • React • Next.js • Kubernetes • Docker • AWS
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ## LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rahafperween/)
 
 ## Visitor Counter
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
-## Typing Animation
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&width=600&lines=Cloud+Native+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg)
