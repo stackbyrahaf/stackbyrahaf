@@ -1,6 +1,17 @@
 
-# Hey there, I'm Rahaf 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&width=600&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg)
+<h1 align="center">
+Hi 👋 I'm Rahaf Perween
+</h1>
+
+<h3 align="center">
+Cloud Native Full-Stack Developer • AI Engineer • Java Backend Developer
+</h3>
+
+<p align="center">
+Building scalable backend systems • Learning Cloud Native Technologies • Exploring AI Agents
+</p>
+
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&width=600&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer))
 
 ## Cloud Native Full Stack Developer
 
