@@ -1,8 +1,6 @@
 
-## Typing Animation
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&width=600&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg)
-
 # Hey there, I'm Rahaf 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&width=600&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg)
 
 ## Cloud Native Full Stack Developer
 
