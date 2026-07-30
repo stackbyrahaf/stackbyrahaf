@@ -13,40 +13,72 @@ Building scalable backend systems • Learning Cloud Native Technologies • Exp
 
 [![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&width=600&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer))
 
-## Cloud Native Full Stack Developer
+## 👨‍💻 About Me
 
-- 🚀 Building scalable backend systems
-- ☁️ Learning Kubernetes & Cloud
-- 🤖 Exploring AI Agents & MCP
-- 📚 Practicing DSA & System Design
+- 🔭 Building scalable Java & Spring Boot applications
+- 🌱 Learning Kubernetes, Cloud Native Architecture & Distributed Systems
+- 🤖 Exploring AI Agents, MCP Servers and LLM Engineering
+- 💡 Interested in Backend Engineering, System Design and Performance Optimization
+- 📚 Solving DSA problems regularly
 
 ---
 
 ## 🛠 Tech Stack
 
-Java • Spring Boot • React • Next.js • Kubernetes • Docker • AWS
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,docker,kubernetes,aws,git,github,mysql,mongodb"/>
+</p>
 
 ---
 
-## 📫 Connect with me
+<p align="center">
+<a href="mailto:rahafperween@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- Email: rahafperween@gmail.com
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<a href="https://github.com/RAHAF321">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 
 # Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RAHAF321&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHAF321&theme=tokyo-night"/>
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RAHAF321&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 
 ## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rahafperween/)
 
 ## Visitor Counter
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=RAHAF321&color=blueviolet&style=for-the-badge)
+
+## 🚀 Featured Projects
+
+🌟 Catalyst Portfolio
+Modern developer portfolio built with Next.js & TypeScript
+
+🌟 Assignment Management System
+Java + Spring Boot + React
+
+🌟 QR Generator
+Spring Boot REST API
+
+🌟 AI Knowledge Transfer Tool
+LLM + MCP + ChromaDB
