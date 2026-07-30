@@ -11,7 +11,13 @@ Cloud Native Full-Stack Developer • AI Engineer • Java Backend Developer
 Building scalable backend systems • Learning Cloud Native Technologies • Exploring AI Agents
 </p>
 
-[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&width=600&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer))
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAHAF321&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/RAHAF321?style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/stars/RAHAF321?affiliations=OWNER&style=for-the-badge&color=blueviolet"/>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
@@ -20,6 +26,27 @@ Building scalable backend systems • Learning Cloud Native Technologies • Exp
 - 🤖 Exploring AI Agents, MCP Servers and LLM Engineering
 - 💡 Interested in Backend Engineering, System Design and Performance Optimization
 - 📚 Solving DSA problems regularly
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building cloud-native backend applications
+- ☸️ Learning Kubernetes & Distributed Systems
+- 🤖 Developing AI Agents using MCP & LLMs
+- 📖 Practicing System Design & DSA
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes
+- AWS
+- Microservices
+- AI Agents
+- MCP Servers
+- LangGraph
+- RAG
 
 ---
 
