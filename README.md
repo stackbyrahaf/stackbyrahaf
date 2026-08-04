@@ -8,7 +8,7 @@ Cloud Native Full-Stack Developer • AI Engineer • Java Backend Developer
 </h3>
 
 <p align="center">
-Building scalable backend systems • Learning Cloud Native Technologies • Exploring AI Agents
+Building scalable backend systems  •  Learning Cloud Native Technologies  •  Exploring AI Agents
 </p>
 
 <p align="center">
