@@ -1,62 +1,22 @@
+# <div align="center">
 
-<h1 align="center">
-Hi 👋 I'm Rahaf Perween
-</h1>
+# 👋 Hi, I'm **Rahaf Perween**
 
-<h3 align="center">
-Cloud Native Full-Stack Developer • AI Engineer • Java Backend Developer
-</h3>
+### Cloud Native Full-Stack Developer • Java Backend Engineer • AI Engineer
+
+Building scalable backend systems • Designing distributed applications • Exploring AI Agents & LLM Engineering
 
 <p align="center">
-Building scalable backend systems  •  Learning Cloud Native Technologies  •  Exploring AI Agents
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=30\&duration=3500\&pause=1000\&color=A855F7\&center=true\&vCenter=true\&width=850\&lines=Cloud+Native+Full-Stack+Developer;Java+%7C+Spring+Boot+Expert;AI+Engineer+%7C+LLM+Developer;System+Design+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAHAF321&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/RAHAF321?style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/stars/RAHAF321?affiliations=OWNER&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=RAHAF321&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/RAHAF321?style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/stars/RAHAF321?affiliations=OWNER&style=for-the-badge&color=blueviolet"/>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Cloud+Native+Full-Stack+Developer;AI+Engineer;Spring+Boot+Developer)](https://git.io/typing-svg)
-
-## 👨‍💻 About Me
-
-- 🔭 Building scalable Java & Spring Boot applications
-- 🌱 Learning Kubernetes, Cloud Native Architecture & Distributed Systems
-- 🤖 Exploring AI Agents, MCP Servers and LLM Engineering
-- 💡 Interested in Backend Engineering, System Design and Performance Optimization
-- 📚 Solving DSA problems regularly
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Building cloud-native backend applications
-- ☸️ Learning Kubernetes & Distributed Systems
-- 🤖 Developing AI Agents using MCP & LLMs
-- 📖 Practicing System Design & DSA
-
----
-
-## 🌱 Currently Learning
-
-- Kubernetes
-- AWS
-- Microservices
-- AI Agents
-- MCP Servers
-- LangGraph
-- RAG
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,docker,kubernetes,aws,git,github,mysql,mongodb"/>
-</p>
-
----
 
 <p align="center">
 <a href="mailto:rahafperween@gmail.com">
@@ -70,42 +30,164 @@ Building scalable backend systems  •  Learning Cloud Native Technologies  • 
 <a href="https://github.com/RAHAF321">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
+---
 
-# Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+# 💫 About Me
+
+I'm a **Cloud Native Full-Stack Developer** passionate about building reliable backend systems, scalable cloud applications, and AI-powered solutions.
+
+I enjoy solving complex engineering problems through clean architecture, distributed systems, and modern development practices.
+
+Currently, I'm expanding my expertise in Kubernetes, AI Agents, LLM Engineering, and System Design while continuously improving my backend engineering skills.
+
+---
+
+# 🚀 What I'm Working On
+
+* 🔥 Building scalable **Java & Spring Boot** applications
+* ☁️ Learning **Cloud Native Architecture**
+* ☸️ Mastering **Kubernetes & Microservices**
+* 🤖 Building **AI Agents using MCP, LangGraph & LLMs**
+* 📚 Practicing **System Design & Data Structures**
+
+---
+
+# 🌱 Currently Learning
+
+* Kubernetes
+* AWS
+* Docker
+* Distributed Systems
+* AI Agents
+* MCP Servers
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
 <p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RAHAF321&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHAF321&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
 <img src="https://streak-stats.demolab.com?user=RAHAF321&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHAF321&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHAF321&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+---
 
-## GitHub Trophies
+# 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RAHAF321&theme=tokyonight&no-frame=true&row=1"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RAHAF321&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
 
-## LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/rahafperween/)
+---
 
-## Visitor Counter
-![](https://komarev.com/ghpvc/?username=RAHAF321&color=blueviolet&style=for-the-badge)
+# 💻 LeetCode
 
-## 🚀 Featured Projects
+<p align="center">
 
-🌟 Catalyst Portfolio
-Modern developer portfolio built with Next.js & TypeScript
+<img src="https://leetcard.jacoblin.cool/rahafperween?theme=dark&font=JetBrains+Mono"/>
 
-🌟 Assignment Management System
-Java + Spring Boot + React
+</p>
 
-🌟 QR Generator
-Spring Boot REST API
+---
 
-🌟 AI Knowledge Transfer Tool
-LLM + MCP + ChromaDB
+# 🚀 Featured Projects
+
+## 🌟 Catalyst
+
+A modern developer portfolio built using **Next.js, TypeScript, Tailwind CSS, and Framer Motion**, showcasing projects, experience, and technical skills with a clean, responsive design.
+
+---
+
+## 🌟 Assignment Management System
+
+A full-stack application built with **Java, Spring Boot, React, and MySQL** featuring authentication, role management, and assignment workflows.
+
+---
+
+## 🌟 QR Generator API
+
+RESTful API developed using **Spring Boot** for generating customizable QR codes with clean architecture and scalable design.
+
+---
+
+## 🌟 AI Knowledge Transfer Tool
+
+AI-powered documentation assistant leveraging **LLMs, MCP Servers, ChromaDB, and Retrieval-Augmented Generation (RAG)** for intelligent knowledge search and retrieval.
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Master Kubernetes
+* ✅ Learn AWS in depth
+* ✅ Build Production-grade AI Agents
+* ✅ Strengthen Distributed Systems expertise
+* ✅ Solve 500+ DSA problems
+* ✅ Contribute more to Open Source
+* ✅ Build impactful cloud-native products
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Keep building. Keep learning. Keep shipping."* 🚀
+
+</p>
