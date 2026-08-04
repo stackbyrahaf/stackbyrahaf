@@ -1,24 +1,26 @@
-# <div align="center">
+```markdown
+<div align="center">
 
-# 👋 Hi, I'm **Rahaf Perween**
+# 👋 Hi, I'm Rahaf Perween
 
 ### Cloud Native Full-Stack Developer • Java Backend Engineer • AI Engineer
 
 Building scalable backend systems • Designing distributed applications • Exploring AI Agents & LLM Engineering
 
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=30\&duration=3500\&pause=1000\&color=A855F7\&center=true\&vCenter=true\&width=850\&lines=Cloud+Native+Full-Stack+Developer;Java+%7C+Spring+Boot+Expert;AI+Engineer+%7C+LLM+Developer;System+Design+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
-
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Cloud+Native+Full-Stack+Developer;Java+%7C+Spring+Boot+Developer;Cloud+Native+Enthusiast;AI+Engineer+%7C+LLM+Developer;System+Design+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=RAHAF321&style=for-the-badge&color=blueviolet"/>
+
 <img src="https://img.shields.io/github/followers/RAHAF321?style=for-the-badge&color=blueviolet"/>
+
 <img src="https://img.shields.io/github/stars/RAHAF321?affiliations=OWNER&style=for-the-badge&color=blueviolet"/>
+
 </p>
 
 <p align="center">
+
 <a href="mailto:rahafperween@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -33,71 +35,84 @@ Building scalable backend systems • Designing distributed applications • Exp
 
 </p>
 
----
-
-# 💫 About Me
-
-I'm a **Cloud Native Full-Stack Developer** passionate about building reliable backend systems, scalable cloud applications, and AI-powered solutions.
-
-I enjoy solving complex engineering problems through clean architecture, distributed systems, and modern development practices.
-
-Currently, I'm expanding my expertise in Kubernetes, AI Agents, LLM Engineering, and System Design while continuously improving my backend engineering skills.
+</div>
 
 ---
 
-# 🚀 What I'm Working On
+# 👨‍💻 About Me
 
-* 🔥 Building scalable **Java & Spring Boot** applications
-* ☁️ Learning **Cloud Native Architecture**
-* ☸️ Mastering **Kubernetes & Microservices**
-* 🤖 Building **AI Agents using MCP, LangGraph & LLMs**
-* 📚 Practicing **System Design & Data Structures**
+I'm a software engineer passionate about building **scalable**, **reliable**, and **cloud-native** applications.
+
+My primary focus is backend engineering using **Java** and **Spring Boot**, where I enjoy designing REST APIs, microservices, and distributed systems.
+
+Recently, I've been exploring **AI Engineering**, building intelligent applications using **LLMs**, **MCP Servers**, **LangGraph**, and **Retrieval-Augmented Generation (RAG)**.
+
+I believe great software comes from clean architecture, continuous learning, and solving real-world problems.
 
 ---
 
-# 🌱 Currently Learning
+# ⚙️ Engineering Philosophy
 
-* Kubernetes
-* AWS
-* Docker
-* Distributed Systems
-* AI Agents
-* MCP Servers
-* LangGraph
-* Retrieval-Augmented Generation (RAG)
+- Write code that is simple, maintainable, and scalable.
+- Design systems before writing code.
+- Automate repetitive tasks whenever possible.
+- Optimize only after measuring performance.
+- Learn continuously by building real-world projects.
+
+---
+
+# 🚀 Current Focus
+
+- 🔥 Building scalable Java & Spring Boot applications
+- ☁️ Learning Cloud Native Architecture
+- ☸️ Mastering Kubernetes & Distributed Systems
+- 🤖 Developing AI Agents with MCP & LLMs
+- 📚 Practicing System Design & Data Structures
+
+---
+
+# 🚀 Tech Radar
+
+### 🔥 Building
+
+- Java
+- Spring Boot
+- React
+- Next.js
+- REST APIs
+
+### 📖 Learning
+
+- Kubernetes
+- AWS
+- Docker
+- Microservices
+- Event-Driven Architecture
+
+### 🧪 Exploring
+
+- AI Agents
+- MCP Servers
+- LangGraph
+- RAG
+- LLM Engineering
+
+### 🎯 Interested In
+
+- Distributed Systems
+- High Performance Backend
+- Cloud Native Computing
+- Software Architecture
+- Developer Experience
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,ts,js,python"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,nextjs,ts,js,tailwind,html,css,docker,kubernetes,aws,mysql,postgres,mongodb,redis,git,github,linux,vscode"/>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 </p>
 
 ---
@@ -148,46 +163,94 @@ Currently, I'm expanding my expertise in Kubernetes, AI Agents, LLM Engineering,
 
 # 🚀 Featured Projects
 
-## 🌟 Catalyst
+## ⚡ Catalyst
 
-A modern developer portfolio built using **Next.js, TypeScript, Tailwind CSS, and Framer Motion**, showcasing projects, experience, and technical skills with a clean, responsive design.
+A modern developer portfolio showcasing projects, experience, blogs, and technical expertise.
 
----
+**Tech Stack**
 
-## 🌟 Assignment Management System
-
-A full-stack application built with **Java, Spring Boot, React, and MySQL** featuring authentication, role management, and assignment workflows.
+Next.js • TypeScript • Tailwind CSS • Framer Motion
 
 ---
 
-## 🌟 QR Generator API
+## 🤖 AI Knowledge Transfer Tool
 
-RESTful API developed using **Spring Boot** for generating customizable QR codes with clean architecture and scalable design.
+An AI-powered documentation platform that enables semantic search and intelligent knowledge retrieval using modern LLM technologies.
 
----
+**Tech Stack**
 
-## 🌟 AI Knowledge Transfer Tool
-
-AI-powered documentation assistant leveraging **LLMs, MCP Servers, ChromaDB, and Retrieval-Augmented Generation (RAG)** for intelligent knowledge search and retrieval.
+Python • ChromaDB • MCP • LangGraph • RAG
 
 ---
 
-# 🎯 2026 Goals
+## 📚 Assignment Management System
 
-* ✅ Master Kubernetes
-* ✅ Learn AWS in depth
-* ✅ Build Production-grade AI Agents
-* ✅ Strengthen Distributed Systems expertise
-* ✅ Solve 500+ DSA problems
-* ✅ Contribute more to Open Source
-* ✅ Build impactful cloud-native products
+A full-stack application featuring authentication, role-based access control, and assignment workflows.
+
+**Tech Stack**
+
+Java • Spring Boot • React • MySQL
 
 ---
 
-<p align="center">
+## 📱 QR Generator API
+
+REST API for generating customizable QR Codes with Spring Boot.
+
+**Tech Stack**
+
+Java • Spring Boot
+
+---
+
+# 📚 Currently Learning
+
+- Kubernetes
+- AWS
+- Distributed Systems
+- AI Agents
+- LangGraph
+- MCP Servers
+- RAG
+- System Design
+
+---
+
+# 🎯 2026 Roadmap
+
+- ✅ Master Kubernetes
+- ✅ Learn AWS
+- ✅ Build Production-grade AI Agents
+- ✅ Strengthen Distributed Systems
+- ✅ Solve 500+ DSA Problems
+- ✅ Contribute to Open Source
+- ✅ Publish Technical Blogs
+- ✅ Build Cloud Native Products
+
+---
+
+# ☕ Fun Facts
+
+- 💡 I enjoy solving backend engineering challenges.
+- 📚 Learning something new every week.
+- 🧠 System Design is one of my favorite topics.
+- 🚀 Always experimenting with new technologies.
+
+---
+
+<div align="center">
+
+## 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Keep building. Keep learning. Keep shipping."* 🚀
+*"Keep Building • Keep Learning • Keep Shipping"* 🚀
 
-</p>
+If you enjoy my work, consider ⭐ starring my repositories or connecting with me on LinkedIn.
+
+</div>
+```
