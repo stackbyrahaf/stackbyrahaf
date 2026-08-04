@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Rahaf Perween
@@ -253,4 +252,4 @@ Java • Spring Boot
 If you enjoy my work, consider ⭐ starring my repositories or connecting with me on LinkedIn.
 
 </div>
-```
+
