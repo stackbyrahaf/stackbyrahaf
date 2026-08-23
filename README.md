@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Rahaf Perween
 
-### Cloud Native Full-Stack Developer • Java Backend Engineer • AI Engineer
+### Cloud Native Full-Stack Developer • Cloud Native Architect • Applied AI & LLM Systems
 
-Building scalable backend systems • Designing distributed applications • Exploring AI Agents & LLM Engineering
+Distributed Systems Architect • Applied AI & Agentic Workflows • Cloud Native Engineer Scalable System Design • Multi-Agent Systems & LLM Fine-Tuning • High-Concurrency & Event-Driven Backends
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Cloud+Native+Full-Stack+Developer;Java+%7C+Spring+Boot+Developer;Cloud+Native+Enthusiast;AI+Engineer+%7C+LLM+Developer;System+Design+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
 
