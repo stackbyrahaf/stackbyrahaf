@@ -38,15 +38,15 @@ Distributed Systems Architect • Applied AI & Agentic Workflows • Cloud Nativ
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a software engineer passionate about building **scalable**, **reliable**, and **cloud-native** applications.
+I'm a **Cloud-Native Full-Stack Software Engineer** passionate about building **scalable, reliable, and cloud-native** applications.
 
-My primary focus is backend engineering using **Java** and **Spring Boot**, where I enjoy designing REST APIs, microservices, and distributed systems.
+My primary focus is **backend engineering** using **Java and Spring Boot** along with **React**, where I enjoy designing **REST APIs, microservices, and distributed systems**.
 
-Recently, I've been exploring **AI Engineering**, building intelligent applications using **LLMs**, **MCP Servers**, **LangGraph**, and **Retrieval-Augmented Generation (RAG)**.
+Recently, I've been exploring **AI Engineering**, building intelligent applications using **LLMs, MCP Servers, LangGraph**, and **Retrieval-Augmented Generation (RAG)**.
 
-I believe great software comes from clean architecture, continuous learning, and solving real-world problems.
+I believe great software comes from **clean architecture**, **continuous learning**, and **solving real-world problems**.
 
 ---
 
