@@ -2,19 +2,19 @@
 
 # 👋 Hi, I'm Rahaf Perween
 
-### Cloud Native Full-Stack Developer • Cloud Native Architect • Applied AI & LLM Systems
+### Cloud Native Full-Stack Developer • Cloud Native Architecture • Applied AI & LLM Systems
 
-Distributed Systems Architect • Applied AI & Agentic Workflows • Cloud Native Engineer Scalable System Design • Multi-Agent Systems & LLM Fine-Tuning • High-Concurrency & Event-Driven Backends
+Distributed Systems Architecture • Applied AI & Agentic Workflows • Cloud Native Engineer Scalable • System Design • Multi-Agent Systems & LLM Fine-Tuning • High-Concurrency & Event-Driven Backends
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Cloud+Native+Full-Stack+Developer;Java+%7C+Spring+Boot+Developer;Cloud+Native+Enthusiast;AI+Engineer+%7C+LLM+Developer;System+Design+Learner;Always+Building+Something+New)](https://git.io/typing-svg)
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RAHAF321&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=stackbyrahaf&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/RAHAF321?style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/stackbyrahaf?style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/stars/RAHAF321?affiliations=OWNER&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/stars/stackbyrahaf?affiliations=OWNER&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
@@ -24,11 +24,7 @@ Distributed Systems Architect • Applied AI & Agentic Workflows • Cloud Nativ
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/RAHAF321">
+<a href="https://github.com/stackbyrahaf">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
