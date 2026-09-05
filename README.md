@@ -34,18 +34,6 @@ Distributed Systems Architecture • Applied AI & Agentic Workflows • Cloud Na
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Cloud-Native Full-Stack Software Engineer** passionate about building **scalable, reliable, and cloud-native** applications.
-
-My primary focus is **backend engineering** using **Java and Spring Boot** along with **React**, where I enjoy designing **REST APIs, microservices, and distributed systems**.
-
-Recently, I've been exploring **AI Engineering**, building intelligent applications using **LLMs, MCP Servers, LangGraph**, and **Retrieval-Augmented Generation (RAG)**.
-
-I believe great software comes from **clean architecture**, **continuous learning**, and **solving real-world problems**.
-
----
-
 # ⚙️ Engineering Philosophy
 
 - Write code that is simple, maintainable, and scalable.
@@ -55,34 +43,6 @@ I believe great software comes from **clean architecture**, **continuous learnin
 - Learn continuously by building real-world projects.
 
 ---
-
-# 🚀 Current Focus
-
-- 🔥 Building scalable Java & Spring Boot applications
-- ☁️ Learning Cloud Native Architecture
-- ☸️ Mastering Kubernetes & Distributed Systems
-- 🤖 Developing AI Agents with MCP & LLMs
-- 📚 Practicing System Design & Data Structures
-
----
-
-# 🚀 Tech Radar
-
-### 🔥 Building
-
-- Java
-- Spring Boot
-- React
-- Next.js
-- REST APIs
-
-### 📖 Learning
-
-- Kubernetes
-- AWS
-- Docker
-- Microservices
-- Event-Driven Architecture
 
 ### 🧪 Exploring
 
@@ -98,8 +58,7 @@ I believe great software comes from **clean architecture**, **continuous learnin
 - High Performance Backend
 - Cloud Native Computing
 - Software Architecture
-- Developer Experience
-
+- AIML
 ---
 
 # 🛠 Tech Stack
@@ -116,21 +75,21 @@ I believe great software comes from **clean architecture**, **continuous learnin
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RAHAF321&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=stackbyrahaf&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHAF321&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RAHAF321&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackbyrahaf&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHAF321&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=stackbyrahaf&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stackbyrahaf&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -140,7 +99,7 @@ I believe great software comes from **clean architecture**, **continuous learnin
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RAHAF321&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=stackbyrahaf&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -156,65 +115,10 @@ I believe great software comes from **clean architecture**, **continuous learnin
 
 ---
 
-# 🚀 Featured Projects
-
-## ⚡ Catalyst
-
-A modern developer portfolio showcasing projects, experience, blogs, and technical expertise.
-
-**Tech Stack**
-
-Next.js • TypeScript • Tailwind CSS • Framer Motion
-
----
-
-## 🤖 AI Knowledge Transfer Tool
-
-An AI-powered documentation platform that enables semantic search and intelligent knowledge retrieval using modern LLM technologies.
-
-**Tech Stack**
-
-Python • ChromaDB • MCP • LangGraph • RAG
-
----
-
-## 📚 Assignment Management System
-
-A full-stack application featuring authentication, role-based access control, and assignment workflows.
-
-**Tech Stack**
-
-Java • Spring Boot • React • MySQL
-
----
-
-## 📱 QR Generator API
-
-REST API for generating customizable QR Codes with Spring Boot.
-
-**Tech Stack**
-
-Java • Spring Boot
-
----
-
-# 📚 Currently Learning
-
-- Kubernetes
-- AWS
-- Distributed Systems
-- AI Agents
-- LangGraph
-- MCP Servers
-- RAG
-- System Design
-
----
-
 # 🎯 2026 Roadmap
 
-- ✅ Master Kubernetes
-- ✅ Learn AWS
+- ✅ Master System Design
+- ✅ Learn AIML concepts
 - ✅ Build Production-grade AI Agents
 - ✅ Strengthen Distributed Systems
 - ✅ Solve 500+ DSA Problems
@@ -226,8 +130,8 @@ Java • Spring Boot
 
 # ☕ Fun Facts
 
-- 💡 I enjoy solving backend engineering challenges.
-- 📚 Learning something new every week.
+- 💡 I enjoy solving challenges.
+- 📚 Learning something new every day.
 - 🧠 System Design is one of my favorite topics.
 - 🚀 Always experimenting with new technologies.
 
